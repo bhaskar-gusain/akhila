@@ -1,0 +1,8 @@
+makecode:
+  target: imx8ulp
+  platform: imx8ulp
+  home_url: http://localhost:3232/
+theme: jekyll-theme-slate
+include:
+  - assets
+  - README.md
