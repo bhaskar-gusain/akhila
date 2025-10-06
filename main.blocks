@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="GNIW3GOz`?T0+6Jb@MJ[" x="0" y="0"><statement name="HANDLER"><block type="device_plot" id="XUhfKr;weou0Z^Ml^_X{"><value name="x"><shadow type="math_number_minmax" id="0x#LrWe)j6kKx,Owm3#9"><mutation min="0" max="4" label="X" precision="0"></mutation><field name="SLIDER">3</field></shadow></value></block></statement></block></xml>
