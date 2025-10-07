@@ -5,4 +5,6 @@ let list = [
 3,
 2
 ]
-basic.showNumber(list.length)
+for (let index = 0; index <= 4; index++) {
+    basic.showNumber(list[index])
+}
