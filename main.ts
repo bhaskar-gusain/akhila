@@ -9,5 +9,5 @@ let list = [
 50
 ]
 for (let index = 0; index <= 4; index++) {
-    basic.showNumber(index)
+    basic.showNumber(list[index])
 }
