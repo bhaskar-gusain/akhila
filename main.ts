@@ -5,4 +5,4 @@ let list = [
 3,
 2
 ]
-basic.showNumber(list[2])
+basic.showNumber(list.length)
