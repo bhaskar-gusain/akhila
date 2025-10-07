@@ -1,2 +1,8 @@
-basic.showAkhila()
-led.plot(3)
+let list = [
+0,
+1,
+5,
+3,
+2
+]
+basic.showNumber(list[2])
