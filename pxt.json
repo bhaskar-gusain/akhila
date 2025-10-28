@@ -2,8 +2,7 @@
     "name": "akhila",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
