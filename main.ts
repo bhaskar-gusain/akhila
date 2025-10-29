@@ -1,1 +1,2 @@
-wifi.connect("AkhilaLabs", "123456")
+wifi.connect("Realme", "@132")
+wifi.disconnect()
