@@ -1,2 +1,6 @@
-wifi.connect("Realme", "@132")
+BLE.connect("alabs")
+for (let index = 0; index <= 4; index++) {
+    basic.showNumber(index)
+}
+wifi.connect("Akhila", "@132")
 wifi.disconnect()

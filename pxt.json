@@ -20,5 +20,5 @@
     "supportedTargets": [
         "imx8ulp"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
